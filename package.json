@@ -1,0 +1,16 @@
+{
+  "name": "module-3-assignment",
+  "version": "1.0.0",
+  "description": "Microsoft DEV283x Module 3 Assignment Lab: MongoDB Migration Node Script",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xxyzz",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "mongodb": "^3.0.1"
+  }
+}
